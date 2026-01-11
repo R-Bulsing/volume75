@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="calmGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#031b2c" />
+      <stop offset="1" stop-color="#3ac3c3" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="32" fill="url(#calmGradient)" />
+  <circle cx="460" cy="110" r="70" fill="#f4e1a5" opacity="0.8" />
+  <path d="M120 320 Q200 220 300 300 T480 310" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" />
+  <path d="M200 320 V200 Q220 170 260 170 Q300 170 320 200 V320" stroke="#fff" stroke-width="10" fill="none" stroke-linecap="round" />
+  <text x="60" y="90" fill="#fff" font-size="38" font-family="'Segoe UI', Arial, sans-serif" font-weight="600">Stilteruimte</text>
+</svg>

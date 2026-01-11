@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="esportGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08002f" />
+      <stop offset="1" stop-color="#5e00ff" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="32" fill="url(#esportGradient)" />
+  <rect x="150" y="130" width="300" height="180" rx="24" fill="#0a0f2e" stroke="#7af7ff" stroke-width="8" />
+  <path d="M210 220 h40" stroke="#ff2d92" stroke-width="14" stroke-linecap="round" />
+  <circle cx="360" cy="220" r="18" fill="none" stroke="#ffdc39" stroke-width="8" />
+  <g fill="#00f6ff">
+    <rect x="220" y="170" width="50" height="18" rx="8" />
+    <rect x="330" y="170" width="50" height="18" rx="8" />
+  </g>
+  <text x="70" y="90" fill="#fff" font-size="38" font-family="'Segoe UI', Arial, sans-serif" font-weight="600">E-sports Arena</text>
+</svg>

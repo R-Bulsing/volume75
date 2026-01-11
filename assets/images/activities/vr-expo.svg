@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="vrGradient" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0" stop-color="#001a36" />
+      <stop offset="1" stop-color="#00c6ff" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="32" fill="url(#vrGradient)" />
+  <g fill="#0b1b3d">
+    <rect x="130" y="120" width="340" height="180" rx="90" fill="#071025" />
+  </g>
+  <g fill="#1dffff">
+    <rect x="180" y="175" width="90" height="40" rx="14" />
+    <rect x="330" y="175" width="90" height="40" rx="14" />
+  </g>
+  <rect x="150" y="140" width="300" height="140" rx="70" stroke="#6af0ff" stroke-width="10" fill="none" />
+  <circle cx="300" cy="320" r="28" fill="#fce960" />
+  <text x="60" y="80" fill="#fff" font-size="36" font-family="'Segoe UI', Arial, sans-serif" font-weight="600">VR Experience</text>
+</svg>
